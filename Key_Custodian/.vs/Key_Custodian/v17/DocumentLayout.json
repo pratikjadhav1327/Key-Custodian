@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Practice\\Project\\Key-Custodian\\Key_Custodian\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{135319D6-89CE-4782-BBF0-484BC87C1DC6}|Key_Custodian\\Key_Custodian.csproj|c:\\practice\\project\\key-custodian\\key_custodian\\key_custodian\\migrations\\202504070940134_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135319D6-89CE-4782-BBF0-484BC87C1DC6}|Key_Custodian\\Key_Custodian.csproj|solutionrelative:key_custodian\\migrations\\202504070940134_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135319D6-89CE-4782-BBF0-484BC87C1DC6}|Key_Custodian\\Key_Custodian.csproj|c:\\practice\\project\\key-custodian\\key_custodian\\key_custodian\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135319D6-89CE-4782-BBF0-484BC87C1DC6}|Key_Custodian\\Key_Custodian.csproj|solutionrelative:key_custodian\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135319D6-89CE-4782-BBF0-484BC87C1DC6}|Key_Custodian\\Key_Custodian.csproj|c:\\practice\\project\\key-custodian\\key_custodian\\key_custodian\\models\\vault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135319D6-89CE-4782-BBF0-484BC87C1DC6}|Key_Custodian\\Key_Custodian.csproj|solutionrelative:key_custodian\\models\\vault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135319D6-89CE-4782-BBF0-484BC87C1DC6}|Key_Custodian\\Key_Custodian.csproj|c:\\practice\\project\\key-custodian\\key_custodian\\key_custodian\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135319D6-89CE-4782-BBF0-484BC87C1DC6}|Key_Custodian\\Key_Custodian.csproj|solutionrelative:key_custodian\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135319D6-89CE-4782-BBF0-484BC87C1DC6}|Key_Custodian\\Key_Custodian.csproj|c:\\practice\\project\\key-custodian\\key_custodian\\key_custodian\\models\\lockeraccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135319D6-89CE-4782-BBF0-484BC87C1DC6}|Key_Custodian\\Key_Custodian.csproj|solutionrelative:key_custodian\\models\\lockeraccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135319D6-89CE-4782-BBF0-484BC87C1DC6}|Key_Custodian\\Key_Custodian.csproj|c:\\practice\\project\\key-custodian\\key_custodian\\key_custodian\\models\\keytransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135319D6-89CE-4782-BBF0-484BC87C1DC6}|Key_Custodian\\Key_Custodian.csproj|solutionrelative:key_custodian\\models\\keytransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135319D6-89CE-4782-BBF0-484BC87C1DC6}|Key_Custodian\\Key_Custodian.csproj|c:\\practice\\project\\key-custodian\\key_custodian\\key_custodian\\models\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135319D6-89CE-4782-BBF0-484BC87C1DC6}|Key_Custodian\\Key_Custodian.csproj|solutionrelative:key_custodian\\models\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135319D6-89CE-4782-BBF0-484BC87C1DC6}|Key_Custodian\\Key_Custodian.csproj|c:\\practice\\project\\key-custodian\\key_custodian\\key_custodian\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135319D6-89CE-4782-BBF0-484BC87C1DC6}|Key_Custodian\\Key_Custodian.csproj|solutionrelative:key_custodian\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135319D6-89CE-4782-BBF0-484BC87C1DC6}|Key_Custodian\\Key_Custodian.csproj|c:\\practice\\project\\key-custodian\\key_custodian\\key_custodian\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{135319D6-89CE-4782-BBF0-484BC87C1DC6}|Key_Custodian\\Key_Custodian.csproj|solutionrelative:key_custodian\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135319D6-89CE-4782-BBF0-484BC87C1DC6}|Key_Custodian\\Key_Custodian.csproj|c:\\practice\\project\\key-custodian\\key_custodian\\key_custodian\\models\\incident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135319D6-89CE-4782-BBF0-484BC87C1DC6}|Key_Custodian\\Key_Custodian.csproj|solutionrelative:key_custodian\\models\\incident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135319D6-89CE-4782-BBF0-484BC87C1DC6}|Key_Custodian\\Key_Custodian.csproj|c:\\practice\\project\\key-custodian\\key_custodian\\key_custodian\\models\\vaultaccesslog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135319D6-89CE-4782-BBF0-484BC87C1DC6}|Key_Custodian\\Key_Custodian.csproj|solutionrelative:key_custodian\\models\\vaultaccesslog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "202504070940134_initialcreate.cs",
+              "DocumentMoniker": "C:\\Practice\\Project\\Key-Custodian\\Key_Custodian\\Key_Custodian\\Migrations\\202504070940134_initialcreate.cs",
+              "RelativeDocumentMoniker": "Key_Custodian\\Migrations\\202504070940134_initialcreate.cs",
+              "ToolTip": "C:\\Practice\\Project\\Key-Custodian\\Key_Custodian\\Key_Custodian\\Migrations\\202504070940134_initialcreate.cs",
+              "RelativeToolTip": "Key_Custodian\\Migrations\\202504070940134_initialcreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T09:40:20.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Practice\\Project\\Key-Custodian\\Key_Custodian\\Key_Custodian\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Key_Custodian\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Practice\\Project\\Key-Custodian\\Key_Custodian\\Key_Custodian\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Key_Custodian\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T09:39:20.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Practice\\Project\\Key-Custodian\\Key_Custodian\\Key_Custodian\\Web.config",
+              "RelativeDocumentMoniker": "Key_Custodian\\Web.config",
+              "ToolTip": "C:\\Practice\\Project\\Key-Custodian\\Key_Custodian\\Key_Custodian\\Web.config",
+              "RelativeToolTip": "Key_Custodian\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-07T09:23:53.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Practice\\Project\\Key-Custodian\\Key_Custodian\\Key_Custodian\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Key_Custodian\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Practice\\Project\\Key-Custodian\\Key_Custodian\\Key_Custodian\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Key_Custodian\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T09:16:15.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Incident.cs",
+              "DocumentMoniker": "C:\\Practice\\Project\\Key-Custodian\\Key_Custodian\\Key_Custodian\\Models\\Incident.cs",
+              "RelativeDocumentMoniker": "Key_Custodian\\Models\\Incident.cs",
+              "ToolTip": "C:\\Practice\\Project\\Key-Custodian\\Key_Custodian\\Key_Custodian\\Models\\Incident.cs",
+              "RelativeToolTip": "Key_Custodian\\Models\\Incident.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T07:16:03.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VaultAccessLog.cs",
+              "DocumentMoniker": "C:\\Practice\\Project\\Key-Custodian\\Key_Custodian\\Key_Custodian\\Models\\VaultAccessLog.cs",
+              "RelativeDocumentMoniker": "Key_Custodian\\Models\\VaultAccessLog.cs",
+              "ToolTip": "C:\\Practice\\Project\\Key-Custodian\\Key_Custodian\\Key_Custodian\\Models\\VaultAccessLog.cs",
+              "RelativeToolTip": "Key_Custodian\\Models\\VaultAccessLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:55:14.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LockerAccess.cs",
+              "DocumentMoniker": "C:\\Practice\\Project\\Key-Custodian\\Key_Custodian\\Key_Custodian\\Models\\LockerAccess.cs",
+              "RelativeDocumentMoniker": "Key_Custodian\\Models\\LockerAccess.cs",
+              "ToolTip": "C:\\Practice\\Project\\Key-Custodian\\Key_Custodian\\Key_Custodian\\Models\\LockerAccess.cs",
+              "RelativeToolTip": "Key_Custodian\\Models\\LockerAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:44:25.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KeyTransfer.cs",
+              "DocumentMoniker": "C:\\Practice\\Project\\Key-Custodian\\Key_Custodian\\Key_Custodian\\Models\\KeyTransfer.cs",
+              "RelativeDocumentMoniker": "Key_Custodian\\Models\\KeyTransfer.cs",
+              "ToolTip": "C:\\Practice\\Project\\Key-Custodian\\Key_Custodian\\Key_Custodian\\Models\\KeyTransfer.cs",
+              "RelativeToolTip": "Key_Custodian\\Models\\KeyTransfer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:37:31.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vault.cs",
+              "DocumentMoniker": "C:\\Practice\\Project\\Key-Custodian\\Key_Custodian\\Key_Custodian\\Models\\Vault.cs",
+              "RelativeDocumentMoniker": "Key_Custodian\\Models\\Vault.cs",
+              "ToolTip": "C:\\Practice\\Project\\Key-Custodian\\Key_Custodian\\Key_Custodian\\Models\\Vault.cs",
+              "RelativeToolTip": "Key_Custodian\\Models\\Vault.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:14:59.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Key.cs",
+              "DocumentMoniker": "C:\\Practice\\Project\\Key-Custodian\\Key_Custodian\\Key_Custodian\\Models\\Key.cs",
+              "RelativeDocumentMoniker": "Key_Custodian\\Models\\Key.cs",
+              "ToolTip": "C:\\Practice\\Project\\Key-Custodian\\Key_Custodian\\Key_Custodian\\Models\\Key.cs",
+              "RelativeToolTip": "Key_Custodian\\Models\\Key.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:02:31.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Practice\\Project\\Key-Custodian\\Key_Custodian\\Key_Custodian\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Key_Custodian\\Models\\User.cs",
+              "ToolTip": "C:\\Practice\\Project\\Key-Custodian\\Key_Custodian\\Key_Custodian\\Models\\User.cs",
+              "RelativeToolTip": "Key_Custodian\\Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T05:11:59.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
